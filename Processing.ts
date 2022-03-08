@@ -17,7 +17,7 @@ export class Processing {
                     stop = true
                 }
             }
-            await new Promise(f => setTimeout(f, 10));
+            await new Promise(f => setTimeout(f, 0));
         }
     }
 }

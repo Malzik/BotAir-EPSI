@@ -59,7 +59,7 @@ var Processing = /** @class */ (function () {
                                 stop = true;
                             }
                         }
-                        return [4 /*yield*/, new Promise(function (f) { return setTimeout(f, 10); })];
+                        return [4 /*yield*/, new Promise(function (f) { return setTimeout(f, 100); })];
                     case 2:
                         _a.sent();
                         return [3 /*break*/, 1];
