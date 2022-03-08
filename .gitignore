@@ -1,6 +1,8 @@
 # Project exclude paths
-/IMotion.js
-/main.js
-/Motion.js
-/Processing.js
-/ZoneState.js
+#/IMotion.js
+#/main.js
+#/Motion.js
+#/Processing.js
+#/ZoneState.js
+
+.idea
